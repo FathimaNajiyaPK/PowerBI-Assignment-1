@@ -1,5 +1,4 @@
-# PowerBI-Assignment-1
-# PowerBI Assignment 1
+# PowerBI-Assignment
 the assignment includes data trannsformation on a global superstore dataset using simple datacleaning methods.
 
 
